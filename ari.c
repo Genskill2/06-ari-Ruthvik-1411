@@ -1,6 +1,5 @@
-string ari(string s){
- 
 #include<ctype.h>
+string ari(string s){
 
  typedef struct{
  int score;
